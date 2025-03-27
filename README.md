@@ -1,3 +1,14 @@
+Here is the link to the tableau public interactive dashboard
+https://public.tableau.com/app/profile/irungushawn/viz/Dashboard_17430748759070/Dashboard1
+
+Also you can find the dashboard file in the presentation folder on this repository
+Other files inside the folder are :
+> pdf document for the jupyter notebook file
+> Powerpoint slides for the presentation on the analysis
+
+
+
+
 # Phase 1 Project Description
 
 You've made it all the way through the first phase of this course - take a minute to celebrate your awesomeness!
